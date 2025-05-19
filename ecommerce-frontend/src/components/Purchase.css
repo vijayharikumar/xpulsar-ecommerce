@@ -1,0 +1,25 @@
+
+.purchase-page {
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.purchase-page h2 {
+    color: #28a745;
+    margin-bottom: 15px;
+    font-size: 2em;
+}
+
+
+.purchase-page p {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+    color: #555;
+    line-height: 1.6;
+}
